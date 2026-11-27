@@ -36,6 +36,7 @@ public class Gonzales_MethodActivity {
         System.out.println(String.format("%.2f",calculate(10, 9,'-')));
         System.out.println(String.format("%.2f",calculate(10, 9,'*')));
         System.out.println(String.format("%.2f",calculate(10, 9,'/')));
+	System.out.println("Welcomeeeee");
        
         
      
